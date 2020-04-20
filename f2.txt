@@ -1,1 +1,2 @@
 this is git_tut-5 in file2
+this is git-tut 5 changed file2
